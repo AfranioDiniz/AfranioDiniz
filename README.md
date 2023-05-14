@@ -2,6 +2,8 @@
 
 Eu sou o Afranio Diniz
 
+![images](https://github.com/AfranioDiniz/AfranioDiniz/assets/133608663/b30ad989-ce10-4106-baca-0adc0c7c60f5)
+
 ## Meus Hobbies
 
 - Ler
@@ -17,5 +19,4 @@ Eu sou o Afranio Diniz
 ## Meus contatos
 
 - GitHub @AfranioDiniz
-- Instagram @dinizafranio
 - Email afraniosdiniz@gmail.com
